@@ -2,7 +2,7 @@
 
 
 ## Description
-auto Generator
+Application prompts user to enter details about their project.
 
 ## Table of Contents
 * [Installation](#installation)
@@ -13,15 +13,15 @@ auto Generator
 * [Questions](#questions)
 
 ## Installation
-npm Install , node index.js
+npm start, node index.js
 
 ## Usage
-users are provided prompts that they must answer about their project
+the application will ask user specific prompts that the user must answer.
 
 
 
 ## Contributing
-Join Github and just start working on my code.
+Sign up for Github and add my profile.
 
 ## Tests
 undefined
@@ -30,4 +30,4 @@ undefined
 For additional questions, you can reach me through:
 
 GitHub: [kevinduncan1993](https://github.com/kevinduncan1993)
-Email: levonduncan1993@gmail.com
+Email: kevinduncan1993@gmail.com
